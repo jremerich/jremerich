@@ -2,7 +2,6 @@
 <h3 align="center">A passionate for everything about technology and scaling</h3>
 
 [![wakatime](https://wakatime.com/badge/user/624a688a-3941-4df0-acc0-a0ce1ea6ffd4.svg)](https://wakatime.com/@624a688a-3941-4df0-acc0-a0ce1ea6ffd4)
-[![twitter](https://img.shields.io/twitter/follow/jremerich?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/jremerich)
 [![github](https://img.shields.io/github/followers/jremerich?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 
 - 🔭 I’m currently working on [Superpose](https://github.com/jremerich/superpose)
